@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="18" height="15" tilewidth="512" tileheight="512">
+ <tileset firstgid="1" name="numbers_vs_letters_tile_set" tilewidth="512" tileheight="512">
+  <image source="numbers_vs_letters_tile_set.png" width="2048" height="2048"/>
+ </tileset>
+ <layer name="walls" width="18" height="15" opacity="0.9">
+  <data encoding="base64" compression="zlib">
+   eJzNk7ESgCAMQ4uKggj+/9+apXcdoK24OLwplxCCBiJawAo2EMEODhAmtAYSyOA0fAVcoCqap0syNO5SjDtwlzbQpE9mSp/s0jtP83kyrT2j2NPr0/bkLrfD58m0vglLm9mlp2Xlbd9k1kHm1//o79oDGvsFxA==
+  </data>
+ </layer>
+ <objectgroup name="physics" width="18" height="15">
+  <object name="player" x="1280" y="2816"/>
+  <object name="b" x="3824" y="3824"/>
+  <object name="spikes" x="4860" y="3308"/>
+  <object name="button" x="5376" y="5888"/>
+  <object name="c" x="6900" y="5896"/>
+  <object name="door" x="7944" y="760"/>
+  <object name="life" x="2808" y="744"/>
+  <object name="a" x="2824" y="1796"/>
+  <object name="outer_wall" x="1024" y="512">
+   <polyline points="0,0 0,2560 2560,2560 2560,3584 3072,3584 3072,2560 3584,2560 3584,3072 4096,3072 4096,5632 4608,5632 4608,4608 5632,4608 5632,5632 6144,5632 6144,4096 5632,4096 5632,3072 5120,3072 5120,2560 7168,2560 7168,1024 6144,1024 6144,512 7168,512 7168,0 5632,0 5632,1536 2048,1536 2048,1024 1024,1024 1024,512 2048,512 2048,0 0,0"/>
+  </object>
+  <object name="inner_wall_1" x="1536" y="2048">
+   <polyline points="0,0 1536,0 1536,512 0,512 0,0"/>
+  </object>
+  <object name="inner_wall_2" x="6656" y="2048">
+   <polyline points="0,0 0,512 1024,512 1024,0 0,0"/>
+  </object>
+  <object name="inner_wall_3" x="5120" y="3072">
+   <polyline points="0,0 512,0 512,512 0,512 0,0"/>
+  </object>
+  <object name="inner_wall_4" x="5632" y="4096">
+   <polyline points="0,0 512,0 512,512 0,512 0,0"/>
+  </object>
+  <object name="camera" x="4608" y="3840"/>
+ </objectgroup>
+</map>
