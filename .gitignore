@@ -35,3 +35,6 @@ build/
 
 ## OS Specific
 .DS_Store
+
+## Local config
+local.properties
