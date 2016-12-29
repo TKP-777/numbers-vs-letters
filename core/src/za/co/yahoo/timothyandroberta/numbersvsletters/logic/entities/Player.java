@@ -1,6 +1,6 @@
-package za.co.yahoo.timothyandroberta.logic.entities;
+package za.co.yahoo.timothyandroberta.numbersvsletters.logic.entities;
 
-import za.co.yahoo.timothyandroberta.utils.StopWatch;
+import za.co.yahoo.timothyandroberta.numbersvsletters.utils.StopWatch;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.Texture;

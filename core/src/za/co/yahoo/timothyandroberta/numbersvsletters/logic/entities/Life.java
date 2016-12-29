@@ -1,4 +1,4 @@
-package za.co.yahoo.timothyandroberta.logic.entities;
+package za.co.yahoo.timothyandroberta.numbersvsletters.logic.entities;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.Texture;

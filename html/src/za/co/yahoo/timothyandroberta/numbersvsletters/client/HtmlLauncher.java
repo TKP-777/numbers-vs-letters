@@ -1,9 +1,9 @@
-package za.co.yahoo.timothyandroberta.client;
+package za.co.yahoo.timothyandroberta.numbersvsletters.client;
 
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.backends.gwt.GwtApplication;
 import com.badlogic.gdx.backends.gwt.GwtApplicationConfiguration;
-import za.co.yahoo.timothyandroberta.NumbersVsLetters;
+import za.co.yahoo.timothyandroberta.numbersvsletters.NumbersVsLetters;
 
 public class HtmlLauncher extends GwtApplication {
 

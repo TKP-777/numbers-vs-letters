@@ -1,4 +1,4 @@
-package za.co.yahoo.timothyandroberta.screens;
+package za.co.yahoo.timothyandroberta.numbersvsletters.screens;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.Texture;
@@ -11,7 +11,7 @@ import com.badlogic.gdx.scenes.scene2d.ui.Image;
 import com.badlogic.gdx.scenes.scene2d.ui.Skin;
 import com.badlogic.gdx.scenes.scene2d.ui.TextButton;
 import com.badlogic.gdx.scenes.scene2d.ui.TextButton.TextButtonStyle;
-import za.co.yahoo.timothyandroberta.NumbersVsLetters;
+import za.co.yahoo.timothyandroberta.numbersvsletters.NumbersVsLetters;
 
 public class OptionsScreen extends AbstractScreen {
 

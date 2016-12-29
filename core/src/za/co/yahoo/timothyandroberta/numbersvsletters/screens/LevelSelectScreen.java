@@ -1,4 +1,4 @@
-package za.co.yahoo.timothyandroberta.screens;
+package za.co.yahoo.timothyandroberta.numbersvsletters.screens;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.Texture;
@@ -10,8 +10,8 @@ import com.badlogic.gdx.scenes.scene2d.InputListener;
 import com.badlogic.gdx.scenes.scene2d.ui.Image;
 import com.badlogic.gdx.scenes.scene2d.ui.Skin;
 import com.badlogic.gdx.scenes.scene2d.ui.TextButton.TextButtonStyle;
-import za.co.yahoo.timothyandroberta.NumbersVsLetters;
-import za.co.yahoo.timothyandroberta.logic.GenericButton;
+import za.co.yahoo.timothyandroberta.numbersvsletters.NumbersVsLetters;
+import za.co.yahoo.timothyandroberta.numbersvsletters.logic.GenericButton;
 
 public class LevelSelectScreen extends AbstractScreen {
 

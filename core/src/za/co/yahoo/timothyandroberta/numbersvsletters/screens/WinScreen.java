@@ -1,6 +1,6 @@
-package za.co.yahoo.timothyandroberta.screens;
+package za.co.yahoo.timothyandroberta.numbersvsletters.screens;
 
-import za.co.yahoo.timothyandroberta.NumbersVsLetters;
+import za.co.yahoo.timothyandroberta.numbersvsletters.NumbersVsLetters;
 
 public class WinScreen extends AbstractScreen {
 

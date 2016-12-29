@@ -1,6 +1,6 @@
-package za.co.yahoo.timothyandroberta;
+package za.co.yahoo.timothyandroberta.numbersvsletters;
 
-import za.co.yahoo.timothyandroberta.screens.MainMenuScreen;
+import za.co.yahoo.timothyandroberta.numbersvsletters.screens.MainMenuScreen;
 
 import com.badlogic.gdx.Game;
 import com.badlogic.gdx.Gdx;

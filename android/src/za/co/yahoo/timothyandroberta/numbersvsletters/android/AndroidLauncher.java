@@ -1,10 +1,10 @@
-package za.co.yahoo.timothyandroberta.android;
+package za.co.yahoo.timothyandroberta.numbersvsletters.android;
 
 import android.os.Bundle;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
-import za.co.yahoo.timothyandroberta.NumbersVsLetters;
+import za.co.yahoo.timothyandroberta.numbersvsletters.NumbersVsLetters;
 
 public class AndroidLauncher extends AndroidApplication {
 	@Override

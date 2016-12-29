@@ -1,4 +1,4 @@
-package za.co.yahoo.timothyandroberta.screens;
+package za.co.yahoo.timothyandroberta.numbersvsletters.screens;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.OrthographicCamera;
@@ -15,11 +15,11 @@ import com.badlogic.gdx.scenes.scene2d.InputListener;
 import com.badlogic.gdx.scenes.scene2d.ui.Skin;
 import com.badlogic.gdx.scenes.scene2d.ui.TextButton.TextButtonStyle;
 import com.badlogic.gdx.utils.Array;
-import za.co.yahoo.timothyandroberta.NumbersVsLetters;
-import za.co.yahoo.timothyandroberta.logic.GenericButton;
-import za.co.yahoo.timothyandroberta.logic.Level;
-import za.co.yahoo.timothyandroberta.logic.entities.*;
-import za.co.yahoo.timothyandroberta.utils.MapBodyManager;
+import za.co.yahoo.timothyandroberta.numbersvsletters.NumbersVsLetters;
+import za.co.yahoo.timothyandroberta.numbersvsletters.logic.GenericButton;
+import za.co.yahoo.timothyandroberta.numbersvsletters.logic.Level;
+import za.co.yahoo.timothyandroberta.numbersvsletters.logic.entities.*;
+import za.co.yahoo.timothyandroberta.numbersvsletters.utils.MapBodyManager;
 
 public class GamePlayScreen extends AbstractScreen implements ContactListener {
 

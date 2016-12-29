@@ -1,8 +1,8 @@
-package za.co.yahoo.timothyandroberta.utils;
+package za.co.yahoo.timothyandroberta.numbersvsletters.utils;
 
 import java.util.Iterator;
 
-import za.co.yahoo.timothyandroberta.screens.GamePlayScreen;
+import za.co.yahoo.timothyandroberta.numbersvsletters.screens.GamePlayScreen;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.maps.Map;

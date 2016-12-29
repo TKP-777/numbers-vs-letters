@@ -1,8 +1,8 @@
-package za.co.yahoo.timothyandroberta.screens;
+package za.co.yahoo.timothyandroberta.numbersvsletters.screens;
 
-import za.co.yahoo.timothyandroberta.NumbersVsLetters;
-import za.co.yahoo.timothyandroberta.NumbersVsLetters;
-import za.co.yahoo.timothyandroberta.logic.GenericButton;
+import za.co.yahoo.timothyandroberta.numbersvsletters.NumbersVsLetters;
+import za.co.yahoo.timothyandroberta.numbersvsletters.NumbersVsLetters;
+import za.co.yahoo.timothyandroberta.numbersvsletters.logic.GenericButton;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.Texture;
